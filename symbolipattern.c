@@ -1,4 +1,4 @@
-/*symbolic pattern*/
+/*symbolic patternn*/
 #include<stdio.h>
 
 void main()
